@@ -1,9 +1,9 @@
-## Hi there 👋
 # 👋 Hi, I'm Trúc Linh
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I'm Trúc Linh;From University of Information Technology (UIT))](https://git.io/typing-svg)
 🎓 Computer Science student | 💻 Developer | 🔬 AI & Computer Vision Enthusiast
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhtruc&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtruc&layout=compact&theme=radical)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
