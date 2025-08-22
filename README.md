@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Trúc Linh
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I'm Trúc Linh;From University of Information Technology (UIT))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=622BFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Tr%C3%BAc+Linh!;I'm+a+student+at+the+University+of+Information+Technology+(UIT).)](https://git.io/typing-svg)
 🎓 Computer Science student | 💻 Developer | 🔬 AI & Computer Vision Enthusiast
 
 
