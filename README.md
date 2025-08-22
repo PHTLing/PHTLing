@@ -66,5 +66,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PHTLing/PHTLing/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake"/>
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHTLing/PHTLing/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHTLing/PHTLing/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/PHTLing/PHTLing/output/github-contribution-grid-snake.svg">
+</picture>
 
