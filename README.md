@@ -1,4 +1,14 @@
 ## Hi there 👋
+# 👋 Hi, I'm Trúc Linh
+🎓 Computer Science student | 💻 Developer | 🔬 AI & Computer Vision Enthusiast
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhtruc&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtruc&layout=compact&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Three.js](https://img.shields.io/badge/Three.js-3D-lightgrey?logo=three.js)
 
 <!--
 **PHTLing/PHTLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
