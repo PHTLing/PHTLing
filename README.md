@@ -50,16 +50,6 @@
   <img src="https://img.shields.io/badge/notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
 </p>
 
-<!-- Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHTLing&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHTLing&theme=radical&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHTLing&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p>
-
 <!-- Quote & Meme -->
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
